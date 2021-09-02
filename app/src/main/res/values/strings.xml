@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CreateNotification</string>
+    <string name="channel_name">channel changdz</string>
+    <string name="channel_description">chang</string>
+    <string name="channel_name_2">channel changdz2</string>
+    <string name="channel_description_2">chang2</string>
+</resources>
